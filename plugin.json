@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "grokbot-orca",
+  "version": "0.1.0",
+  "description": "Grok Bot desktop on Mac talks to the local Orca.app via the orca CLI. Dispatch, watch, read, and send. No Cloudflare relay.",
+  "author": {
+    "name": "Cola",
+    "url": "https://github.com/aa2246740"
+  },
+  "homepage": "https://github.com/aa2246740/grokbot-orca",
+  "repository": "https://github.com/aa2246740/grokbot-orca",
+  "license": "MIT",
+  "keywords": [
+    "orca",
+    "grok-bot",
+    "worktree",
+    "dispatch",
+    "mcp"
+  ]
+}
